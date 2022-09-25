@@ -3,6 +3,7 @@
 Hands On excercise related to parallel compute using mpi
 
 To install OpenMPI on (Ubuntu) Linux
+
 Option 1:
 1. sudo apt-get install libopenmpi-dev
 2. sudo apt-get install openmpi-bin
