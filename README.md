@@ -18,3 +18,11 @@ Option 2:
 6. make all
 7. make install (it will create bin, lib... under OpenMPI)
 8. Update $PATH and $LD_LIBRARY_PATH 
+
+
+
+OpenMP on (Ubuntu) Linux
+gcc has option by default 
+Reference material : 
+Introduction to OpenMP - Tim Mattson (Intel)
+https://www.youtube.com/watch?v=nE-xN4Bf8XI&list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG
